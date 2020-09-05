@@ -596,7 +596,7 @@ body {
 
     @media (max-width: 480px) {
     .wrapper {
-        max-width: 300px;
+        max-width: 290px;
     }
     .header-info span {
         font-size: 10px;
